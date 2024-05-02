@@ -3,7 +3,7 @@ const signOutMenu = document.querySelector(".desktop-menu");
 const iconMenu = document.querySelector(".menu");
 const mobileMenu = document.querySelector(".mobile-menu");
 const iconShopingCart = document.querySelector(".navbar-shopping-cart");
-const shopingCartMenu = document.querySelector(".product-detail");
+const shopingCartMenu = document.querySelector(".shopping-cart-detail");
 const parentDiv = document.querySelector(".cards-container");
 
 btnEmail.addEventListener("click", toggleMenuSignOut);
