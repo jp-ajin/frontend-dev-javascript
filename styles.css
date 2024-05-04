@@ -122,10 +122,15 @@ nav {
 	display: inline-block;
 }
 
+/* Estilos menu mobile */
+
 .mobile-menu {
 	position: absolute;
 	top: 60px;
-	padding: 24px;
+	background: white;
+	left: 0;
+	width: 100%;
+	text-align: center;
 }
 .mobile-menu a {
 	text-decoration: none;
